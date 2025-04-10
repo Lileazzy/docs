@@ -1,1 +1,0 @@
-6. Optionally, if you're creating a child team, under "Parent team", select the **Select a parent team** dropdown menu and click a parent team. For more information about child teams, see "[About teams](/organizations/organizing-members-into-teams/about-teams#nested-teams)."

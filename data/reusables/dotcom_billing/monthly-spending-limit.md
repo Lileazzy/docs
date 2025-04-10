@@ -1,1 +1,0 @@
-1. Under "Monthly spending limit", choose to limit spending or allow unlimited spending.
